@@ -92,7 +92,7 @@ def create_graph(conn):
     plt.xticks(y_pos, objects)
     plt.ylabel('COUNT')
     plt.title('TAGS USED')
-    plt.savefig("/Users/pyjain/graph.png")
+    plt.savefig("/Applications/Eclipse.app/Contents/MacOS/C:\EclipseWorkspaces\csse120/Log-Analytic-tool/image/graph.png")
               
     
 ##Resulted List with All Data
